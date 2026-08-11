@@ -1,0 +1,353 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3025pt" height="671pt" viewBox="0.00 0.00 3025.00 671.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 666.8)">
+<title>Timeline</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-666.8 3020.86,-666.8 3020.86,4 -4,4"/>
+<!-- y1969 -->
+<g id="node1" class="node">
+<title>y1969</title>
+<text xml:space="preserve" text-anchor="middle" x="36.8" y="-13.8" font-family="Arial" font-size="14.00">1969</text>
+</g>
+<!-- y1981 -->
+<g id="node2" class="node">
+<title>y1981</title>
+<text xml:space="preserve" text-anchor="middle" x="306.74" y="-13.8" font-family="Arial" font-size="14.00">1981</text>
+</g>
+<!-- y1969&#45;&gt;y1981 -->
+<!-- y1984 -->
+<g id="node3" class="node">
+<title>y1984</title>
+<text xml:space="preserve" text-anchor="middle" x="661.86" y="-13.8" font-family="Arial" font-size="14.00">1984</text>
+</g>
+<!-- y1981&#45;&gt;y1984 -->
+<!-- y1985 -->
+<g id="node4" class="node">
+<title>y1985</title>
+<text xml:space="preserve" text-anchor="middle" x="985.06" y="-13.8" font-family="Arial" font-size="14.00">1985</text>
+</g>
+<!-- y1984&#45;&gt;y1985 -->
+<!-- y1991 -->
+<g id="node5" class="node">
+<title>y1991</title>
+<text xml:space="preserve" text-anchor="middle" x="1263.94" y="-13.8" font-family="Arial" font-size="14.00">1991</text>
+</g>
+<!-- y1985&#45;&gt;y1991 -->
+<!-- y1993 -->
+<g id="node6" class="node">
+<title>y1993</title>
+<text xml:space="preserve" text-anchor="middle" x="1550.59" y="-13.8" font-family="Arial" font-size="14.00">1993</text>
+</g>
+<!-- y1991&#45;&gt;y1993 -->
+<!-- y1995 -->
+<g id="node7" class="node">
+<title>y1995</title>
+<text xml:space="preserve" text-anchor="middle" x="1755.35" y="-13.8" font-family="Arial" font-size="14.00">1995</text>
+</g>
+<!-- y1993&#45;&gt;y1995 -->
+<!-- y2001 -->
+<g id="node8" class="node">
+<title>y2001</title>
+<text xml:space="preserve" text-anchor="middle" x="1969.84" y="-13.8" font-family="Arial" font-size="14.00">2001</text>
+</g>
+<!-- y1995&#45;&gt;y2001 -->
+<!-- y2007 -->
+<g id="node9" class="node">
+<title>y2007</title>
+<text xml:space="preserve" text-anchor="middle" x="2197.56" y="-13.8" font-family="Arial" font-size="14.00">2007</text>
+</g>
+<!-- y2001&#45;&gt;y2007 -->
+<!-- y2009 -->
+<g id="node10" class="node">
+<title>y2009</title>
+<text xml:space="preserve" text-anchor="middle" x="2380.15" y="-13.8" font-family="Arial" font-size="14.00">2009</text>
+</g>
+<!-- y2007&#45;&gt;y2009 -->
+<!-- y2015 -->
+<g id="node11" class="node">
+<title>y2015</title>
+<text xml:space="preserve" text-anchor="middle" x="2549.51" y="-13.8" font-family="Arial" font-size="14.00">2015</text>
+</g>
+<!-- y2009&#45;&gt;y2015 -->
+<!-- y2020 -->
+<g id="node12" class="node">
+<title>y2020</title>
+<text xml:space="preserve" text-anchor="middle" x="2760.12" y="-13.8" font-family="Arial" font-size="14.00">2020</text>
+</g>
+<!-- y2015&#45;&gt;y2020 -->
+<!-- y2021 -->
+<g id="node13" class="node">
+<title>y2021</title>
+<text xml:space="preserve" text-anchor="middle" x="2970.73" y="-13.8" font-family="Arial" font-size="14.00">2021</text>
+</g>
+<!-- y2020&#45;&gt;y2021 -->
+<!-- unix -->
+<g id="node14" class="node">
+<title>unix</title>
+<path fill="none" stroke="black" d="M61.59,-486.2C61.59,-486.2 12,-486.2 12,-486.2 6,-486.2 0,-480.2 0,-474.2 0,-474.2 0,-439.8 0,-439.8 0,-433.8 6,-427.8 12,-427.8 12,-427.8 61.59,-427.8 61.59,-427.8 67.59,-427.8 73.59,-433.8 73.59,-439.8 73.59,-439.8 73.59,-474.2 73.59,-474.2 73.59,-480.2 67.59,-486.2 61.59,-486.2"/>
+<text xml:space="preserve" text-anchor="middle" x="36.8" y="-469.6" font-family="Arial" font-size="14.00">UNIX</text>
+<text xml:space="preserve" text-anchor="middle" x="36.8" y="-452.8" font-family="Arial" font-size="14.00">1969</text>
+<text xml:space="preserve" text-anchor="middle" x="36.8" y="-436" font-family="Arial" font-size="14.00">Bell Labs</text>
+</g>
+<!-- linux91 -->
+<g id="node15" class="node">
+<title>linux91</title>
+<path fill="none" stroke="black" d="M1305.46,-587.2C1305.46,-587.2 1222.42,-587.2 1222.42,-587.2 1216.42,-587.2 1210.42,-581.2 1210.42,-575.2 1210.42,-575.2 1210.42,-540.8 1210.42,-540.8 1210.42,-534.8 1216.42,-528.8 1222.42,-528.8 1222.42,-528.8 1305.46,-528.8 1305.46,-528.8 1311.46,-528.8 1317.46,-534.8 1317.46,-540.8 1317.46,-540.8 1317.46,-575.2 1317.46,-575.2 1317.46,-581.2 1311.46,-587.2 1305.46,-587.2"/>
+<text xml:space="preserve" text-anchor="middle" x="1263.94" y="-570.6" font-family="Arial" font-size="14.00">Linux kernel</text>
+<text xml:space="preserve" text-anchor="middle" x="1263.94" y="-553.8" font-family="Arial" font-size="14.00">1991</text>
+<text xml:space="preserve" text-anchor="middle" x="1263.94" y="-537" font-family="Arial" font-size="14.00">Linus Torvalds</text>
+</g>
+<!-- unix&#45;&gt;linux91 -->
+<g id="edge14" class="edge">
+<title>unix-&gt;linux91</title>
+<path fill="none" stroke="black" d="M73.88,-480.17C123.88,-509.99 217.99,-558 305.74,-558 305.74,-558 305.74,-558 986.06,-558 1060.25,-558 1145.61,-558 1201.72,-558"/>
+<polygon fill="black" stroke="black" points="1201.61,-560.45 1208.61,-558 1201.61,-555.55 1201.61,-560.45"/>
+<text xml:space="preserve" text-anchor="middle" x="661.86" y="-562.2" font-family="Arial" font-size="14.00">Unix philosophy</text>
+</g>
+<!-- next -->
+<g id="node29" class="node">
+<title>next</title>
+<path fill="none" stroke="black" d="M512.99,-477.8C512.99,-477.8 448.64,-477.8 448.64,-477.8 442.64,-477.8 436.64,-471.8 436.64,-465.8 436.64,-465.8 436.64,-448.2 436.64,-448.2 436.64,-442.2 442.64,-436.2 448.64,-436.2 448.64,-436.2 512.99,-436.2 512.99,-436.2 518.99,-436.2 524.99,-442.2 524.99,-448.2 524.99,-448.2 524.99,-465.8 524.99,-465.8 524.99,-471.8 518.99,-477.8 512.99,-477.8"/>
+<text xml:space="preserve" text-anchor="middle" x="480.81" y="-461.2" font-family="Arial" font-size="14.00">NeXTSTEP</text>
+<text xml:space="preserve" text-anchor="middle" x="480.81" y="-444.4" font-family="Arial" font-size="14.00">1989</text>
+</g>
+<!-- unix&#45;&gt;next -->
+<g id="edge13" class="edge">
+<title>unix-&gt;next</title>
+<path fill="none" stroke="black" d="M73.97,-457C152.17,-457 337.21,-457 427.89,-457"/>
+<polygon fill="black" stroke="black" points="427.85,-459.45 434.85,-457 427.85,-454.55 427.85,-459.45"/>
+<text xml:space="preserve" text-anchor="middle" x="146.28" y="-461.2" font-family="Arial" font-size="14.00">Unix ideas</text>
+</g>
+<!-- macx -->
+<g id="node30" class="node">
+<title>macx</title>
+<path fill="none" stroke="black" d="M1997.74,-376.8C1997.74,-376.8 1941.94,-376.8 1941.94,-376.8 1935.94,-376.8 1929.94,-370.8 1929.94,-364.8 1929.94,-364.8 1929.94,-347.2 1929.94,-347.2 1929.94,-341.2 1935.94,-335.2 1941.94,-335.2 1941.94,-335.2 1997.74,-335.2 1997.74,-335.2 2003.74,-335.2 2009.74,-341.2 2009.74,-347.2 2009.74,-347.2 2009.74,-364.8 2009.74,-364.8 2009.74,-370.8 2003.74,-376.8 1997.74,-376.8"/>
+<text xml:space="preserve" text-anchor="middle" x="1969.84" y="-360.2" font-family="Arial" font-size="14.00">Mac OS X</text>
+<text xml:space="preserve" text-anchor="middle" x="1969.84" y="-343.4" font-family="Arial" font-size="14.00">2001</text>
+</g>
+<!-- unix&#45;&gt;macx -->
+<g id="edge15" class="edge">
+<title>unix-&gt;macx</title>
+<path fill="none" stroke="black" stroke-dasharray="5,2" d="M73.88,-433.83C123.88,-404.01 217.99,-356 305.74,-356 305.74,-356 305.74,-356 1756.35,-356 1813.07,-356 1878.3,-356 1921.37,-356"/>
+<polygon fill="black" stroke="black" points="1921.16,-358.45 1928.16,-356 1921.16,-353.55 1921.16,-358.45"/>
+<text xml:space="preserve" text-anchor="middle" x="1121.78" y="-360.2" font-family="Arial" font-size="14.00">Unix foundation</text>
+</g>
+<!-- gnuLinux -->
+<g id="node16" class="node">
+<title>gnuLinux</title>
+<path fill="none" stroke="black" d="M1616.22,-662.8C1616.22,-662.8 1484.95,-662.8 1484.95,-662.8 1478.95,-662.8 1472.95,-656.8 1472.95,-650.8 1472.95,-650.8 1472.95,-633.2 1472.95,-633.2 1472.95,-627.2 1478.95,-621.2 1484.95,-621.2 1484.95,-621.2 1616.22,-621.2 1616.22,-621.2 1622.22,-621.2 1628.22,-627.2 1628.22,-633.2 1628.22,-633.2 1628.22,-650.8 1628.22,-650.8 1628.22,-656.8 1622.22,-662.8 1616.22,-662.8"/>
+<text xml:space="preserve" text-anchor="middle" x="1550.59" y="-646.2" font-family="Arial" font-size="14.00">GNU/Linux ecosystem</text>
+<text xml:space="preserve" text-anchor="middle" x="1550.59" y="-629.4" font-family="Arial" font-size="14.00">1990s</text>
+</g>
+<!-- linux91&#45;&gt;gnuLinux -->
+<g id="edge27" class="edge">
+<title>linux91-&gt;gnuLinux</title>
+<path fill="none" stroke="black" d="M1317.76,-574.09C1330.73,-578.01 1344.59,-582.18 1357.46,-586 1393.69,-596.76 1433.82,-608.49 1468,-618.42"/>
+<polygon fill="black" stroke="black" points="1467.24,-620.75 1474.64,-620.35 1468.6,-616.04 1467.24,-620.75"/>
+</g>
+<!-- android -->
+<g id="node18" class="node">
+<title>android</title>
+<path fill="none" stroke="black" d="M1584.33,-581.2C1584.33,-581.2 1516.84,-581.2 1516.84,-581.2 1510.84,-581.2 1504.84,-575.2 1504.84,-569.2 1504.84,-569.2 1504.84,-534.8 1504.84,-534.8 1504.84,-528.8 1510.84,-522.8 1516.84,-522.8 1516.84,-522.8 1584.33,-522.8 1584.33,-522.8 1590.33,-522.8 1596.33,-528.8 1596.33,-534.8 1596.33,-534.8 1596.33,-569.2 1596.33,-569.2 1596.33,-575.2 1590.33,-581.2 1584.33,-581.2"/>
+<text xml:space="preserve" text-anchor="middle" x="1550.59" y="-564.6" font-family="Arial" font-size="14.00">Android</text>
+<text xml:space="preserve" text-anchor="middle" x="1550.59" y="-547.8" font-family="Arial" font-size="14.00">2008</text>
+<text xml:space="preserve" text-anchor="middle" x="1550.59" y="-531" font-family="Arial" font-size="14.00">Linux kernel</text>
+</g>
+<!-- linux91&#45;&gt;android -->
+<g id="edge30" class="edge">
+<title>linux91-&gt;android</title>
+<path fill="none" stroke="black" d="M1317.82,-556.89C1368.68,-555.81 1445.19,-554.2 1496.22,-553.12"/>
+<polygon fill="black" stroke="black" points="1496.04,-555.58 1502.98,-552.98 1495.93,-550.68 1496.04,-555.58"/>
+</g>
+<!-- ubuntu -->
+<g id="node17" class="node">
+<title>ubuntu</title>
+<path fill="none" stroke="black" d="M1773.92,-662.8C1773.92,-662.8 1736.78,-662.8 1736.78,-662.8 1730.78,-662.8 1724.78,-656.8 1724.78,-650.8 1724.78,-650.8 1724.78,-633.2 1724.78,-633.2 1724.78,-627.2 1730.78,-621.2 1736.78,-621.2 1736.78,-621.2 1773.92,-621.2 1773.92,-621.2 1779.92,-621.2 1785.92,-627.2 1785.92,-633.2 1785.92,-633.2 1785.92,-650.8 1785.92,-650.8 1785.92,-656.8 1779.92,-662.8 1773.92,-662.8"/>
+<text xml:space="preserve" text-anchor="middle" x="1755.35" y="-646.2" font-family="Arial" font-size="14.00">Ubuntu</text>
+<text xml:space="preserve" text-anchor="middle" x="1755.35" y="-629.4" font-family="Arial" font-size="14.00">2004</text>
+</g>
+<!-- gnuLinux&#45;&gt;ubuntu -->
+<g id="edge28" class="edge">
+<title>gnuLinux-&gt;ubuntu</title>
+<path fill="none" stroke="black" d="M1628.53,-642C1658.4,-642 1691.27,-642 1715.92,-642"/>
+<polygon fill="black" stroke="black" points="1715.77,-644.45 1722.77,-642 1715.77,-639.55 1715.77,-644.45"/>
+</g>
+<!-- modernLinux -->
+<g id="node19" class="node">
+<title>modernLinux</title>
+<path fill="none" stroke="black" d="M2045.2,-662.8C2045.2,-662.8 1894.48,-662.8 1894.48,-662.8 1888.48,-662.8 1882.48,-656.8 1882.48,-650.8 1882.48,-650.8 1882.48,-633.2 1882.48,-633.2 1882.48,-627.2 1888.48,-621.2 1894.48,-621.2 1894.48,-621.2 2045.2,-621.2 2045.2,-621.2 2051.2,-621.2 2057.2,-627.2 2057.2,-633.2 2057.2,-633.2 2057.2,-650.8 2057.2,-650.8 2057.2,-656.8 2051.2,-662.8 2045.2,-662.8"/>
+<text xml:space="preserve" text-anchor="middle" x="1969.84" y="-646.2" font-family="Arial" font-size="14.00">Modern Linux</text>
+<text xml:space="preserve" text-anchor="middle" x="1969.84" y="-629.4" font-family="Arial" font-size="14.00">Servers / Cloud / DevOps</text>
+</g>
+<!-- ubuntu&#45;&gt;modernLinux -->
+<g id="edge29" class="edge">
+<title>ubuntu-&gt;modernLinux</title>
+<path fill="none" stroke="black" d="M1786.34,-642C1809.24,-642 1842.11,-642 1873.67,-642"/>
+<polygon fill="black" stroke="black" points="1873.58,-644.45 1880.58,-642 1873.58,-639.55 1873.58,-644.45"/>
+</g>
+<!-- dos -->
+<g id="node20" class="node">
+<title>dos</title>
+<path fill="none" stroke="black" d="M330.74,-185.8C330.74,-185.8 282.74,-185.8 282.74,-185.8 276.74,-185.8 270.74,-179.8 270.74,-173.8 270.74,-173.8 270.74,-156.2 270.74,-156.2 270.74,-150.2 276.74,-144.2 282.74,-144.2 282.74,-144.2 330.74,-144.2 330.74,-144.2 336.74,-144.2 342.74,-150.2 342.74,-156.2 342.74,-156.2 342.74,-173.8 342.74,-173.8 342.74,-179.8 336.74,-185.8 330.74,-185.8"/>
+<text xml:space="preserve" text-anchor="middle" x="306.74" y="-169.2" font-family="Arial" font-size="14.00">MS-DOS</text>
+<text xml:space="preserve" text-anchor="middle" x="306.74" y="-152.4" font-family="Arial" font-size="14.00">1981</text>
+</g>
+<!-- win1 -->
+<g id="node21" class="node">
+<title>win1</title>
+<path fill="none" stroke="black" d="M1021.13,-199.8C1021.13,-199.8 948.99,-199.8 948.99,-199.8 942.99,-199.8 936.99,-193.8 936.99,-187.8 936.99,-187.8 936.99,-170.2 936.99,-170.2 936.99,-164.2 942.99,-158.2 948.99,-158.2 948.99,-158.2 1021.13,-158.2 1021.13,-158.2 1027.13,-158.2 1033.13,-164.2 1033.13,-170.2 1033.13,-170.2 1033.13,-187.8 1033.13,-187.8 1033.13,-193.8 1027.13,-199.8 1021.13,-199.8"/>
+<text xml:space="preserve" text-anchor="middle" x="985.06" y="-183.2" font-family="Arial" font-size="14.00">Windows 1.0</text>
+<text xml:space="preserve" text-anchor="middle" x="985.06" y="-166.4" font-family="Arial" font-size="14.00">1985</text>
+</g>
+<!-- dos&#45;&gt;win1 -->
+<g id="edge16" class="edge">
+<title>dos-&gt;win1</title>
+<path fill="none" stroke="black" d="M343.15,-165.73C453.89,-168.03 794.3,-175.07 928.67,-177.85"/>
+<polygon fill="black" stroke="black" points="928.28,-180.3 935.33,-177.99 928.38,-175.4 928.28,-180.3"/>
+</g>
+<!-- win95 -->
+<g id="node22" class="node">
+<title>win95</title>
+<path fill="none" stroke="black" d="M1789.48,-199.8C1789.48,-199.8 1721.22,-199.8 1721.22,-199.8 1715.22,-199.8 1709.22,-193.8 1709.22,-187.8 1709.22,-187.8 1709.22,-170.2 1709.22,-170.2 1709.22,-164.2 1715.22,-158.2 1721.22,-158.2 1721.22,-158.2 1789.48,-158.2 1789.48,-158.2 1795.48,-158.2 1801.48,-164.2 1801.48,-170.2 1801.48,-170.2 1801.48,-187.8 1801.48,-187.8 1801.48,-193.8 1795.48,-199.8 1789.48,-199.8"/>
+<text xml:space="preserve" text-anchor="middle" x="1755.35" y="-183.2" font-family="Arial" font-size="14.00">Windows 95</text>
+<text xml:space="preserve" text-anchor="middle" x="1755.35" y="-166.4" font-family="Arial" font-size="14.00">1995</text>
+</g>
+<!-- win1&#45;&gt;win95 -->
+<g id="edge17" class="edge">
+<title>win1-&gt;win95</title>
+<path fill="none" stroke="black" d="M1033.54,-179C1169.23,-179 1558.06,-179 1700.89,-179"/>
+<polygon fill="black" stroke="black" points="1700.61,-181.45 1707.61,-179 1700.61,-176.55 1700.61,-181.45"/>
+</g>
+<!-- xp -->
+<g id="node24" class="node">
+<title>xp</title>
+<path fill="none" stroke="black" d="M2005.52,-149.8C2005.52,-149.8 1934.16,-149.8 1934.16,-149.8 1928.16,-149.8 1922.16,-143.8 1922.16,-137.8 1922.16,-137.8 1922.16,-120.2 1922.16,-120.2 1922.16,-114.2 1928.16,-108.2 1934.16,-108.2 1934.16,-108.2 2005.52,-108.2 2005.52,-108.2 2011.52,-108.2 2017.52,-114.2 2017.52,-120.2 2017.52,-120.2 2017.52,-137.8 2017.52,-137.8 2017.52,-143.8 2011.52,-149.8 2005.52,-149.8"/>
+<text xml:space="preserve" text-anchor="middle" x="1969.84" y="-133.2" font-family="Arial" font-size="14.00">Windows XP</text>
+<text xml:space="preserve" text-anchor="middle" x="1969.84" y="-116.4" font-family="Arial" font-size="14.00">2001</text>
+</g>
+<!-- win95&#45;&gt;xp -->
+<g id="edge19" class="edge">
+<title>win95-&gt;xp</title>
+<path fill="none" stroke="black" d="M1801.93,-168.27C1834.67,-160.57 1878.97,-150.15 1913.7,-141.97"/>
+<polygon fill="black" stroke="black" points="1914.13,-144.39 1920.39,-140.4 1913.01,-139.62 1914.13,-144.39"/>
+</g>
+<!-- nt -->
+<g id="node23" class="node">
+<title>nt</title>
+<path fill="none" stroke="black" d="M1586.26,-117.8C1586.26,-117.8 1514.92,-117.8 1514.92,-117.8 1508.92,-117.8 1502.92,-111.8 1502.92,-105.8 1502.92,-105.8 1502.92,-88.2 1502.92,-88.2 1502.92,-82.2 1508.92,-76.2 1514.92,-76.2 1514.92,-76.2 1586.26,-76.2 1586.26,-76.2 1592.26,-76.2 1598.26,-82.2 1598.26,-88.2 1598.26,-88.2 1598.26,-105.8 1598.26,-105.8 1598.26,-111.8 1592.26,-117.8 1586.26,-117.8"/>
+<text xml:space="preserve" text-anchor="middle" x="1550.59" y="-101.2" font-family="Arial" font-size="14.00">Windows NT</text>
+<text xml:space="preserve" text-anchor="middle" x="1550.59" y="-84.4" font-family="Arial" font-size="14.00">1993</text>
+</g>
+<!-- nt&#45;&gt;xp -->
+<g id="edge18" class="edge">
+<title>nt-&gt;xp</title>
+<path fill="none" stroke="black" d="M1598.64,-100.61C1676.32,-106.57 1831.01,-118.43 1913.7,-124.77"/>
+<polygon fill="black" stroke="black" points="1913.28,-127.2 1920.45,-125.29 1913.66,-122.31 1913.28,-127.2"/>
+</g>
+<!-- win7 -->
+<g id="node25" class="node">
+<title>win7</title>
+<path fill="none" stroke="black" d="M2410.39,-149.8C2410.39,-149.8 2349.92,-149.8 2349.92,-149.8 2343.92,-149.8 2337.92,-143.8 2337.92,-137.8 2337.92,-137.8 2337.92,-120.2 2337.92,-120.2 2337.92,-114.2 2343.92,-108.2 2349.92,-108.2 2349.92,-108.2 2410.39,-108.2 2410.39,-108.2 2416.39,-108.2 2422.39,-114.2 2422.39,-120.2 2422.39,-120.2 2422.39,-137.8 2422.39,-137.8 2422.39,-143.8 2416.39,-149.8 2410.39,-149.8"/>
+<text xml:space="preserve" text-anchor="middle" x="2380.15" y="-133.2" font-family="Arial" font-size="14.00">Windows 7</text>
+<text xml:space="preserve" text-anchor="middle" x="2380.15" y="-116.4" font-family="Arial" font-size="14.00">2009</text>
+</g>
+<!-- xp&#45;&gt;win7 -->
+<g id="edge20" class="edge">
+<title>xp-&gt;win7</title>
+<path fill="none" stroke="black" d="M2017.68,-129C2095.19,-129 2249.46,-129 2329.06,-129"/>
+<polygon fill="black" stroke="black" points="2328.94,-131.45 2335.94,-129 2328.94,-126.55 2328.94,-131.45"/>
+</g>
+<!-- win10 -->
+<g id="node26" class="node">
+<title>win10</title>
+<path fill="none" stroke="black" d="M2583.64,-149.8C2583.64,-149.8 2515.39,-149.8 2515.39,-149.8 2509.39,-149.8 2503.39,-143.8 2503.39,-137.8 2503.39,-137.8 2503.39,-120.2 2503.39,-120.2 2503.39,-114.2 2509.39,-108.2 2515.39,-108.2 2515.39,-108.2 2583.64,-108.2 2583.64,-108.2 2589.64,-108.2 2595.64,-114.2 2595.64,-120.2 2595.64,-120.2 2595.64,-137.8 2595.64,-137.8 2595.64,-143.8 2589.64,-149.8 2583.64,-149.8"/>
+<text xml:space="preserve" text-anchor="middle" x="2549.51" y="-133.2" font-family="Arial" font-size="14.00">Windows 10</text>
+<text xml:space="preserve" text-anchor="middle" x="2549.51" y="-116.4" font-family="Arial" font-size="14.00">2015</text>
+</g>
+<!-- win7&#45;&gt;win10 -->
+<g id="edge21" class="edge">
+<title>win7-&gt;win10</title>
+<path fill="none" stroke="black" d="M2422.52,-129C2444.25,-129 2471.14,-129 2494.49,-129"/>
+<polygon fill="black" stroke="black" points="2494.4,-131.45 2501.4,-129 2494.4,-126.55 2494.4,-131.45"/>
+</g>
+<!-- win11 -->
+<g id="node27" class="node">
+<title>win11</title>
+<path fill="none" stroke="black" d="M3004.86,-149.8C3004.86,-149.8 2936.61,-149.8 2936.61,-149.8 2930.61,-149.8 2924.61,-143.8 2924.61,-137.8 2924.61,-137.8 2924.61,-120.2 2924.61,-120.2 2924.61,-114.2 2930.61,-108.2 2936.61,-108.2 2936.61,-108.2 3004.86,-108.2 3004.86,-108.2 3010.86,-108.2 3016.86,-114.2 3016.86,-120.2 3016.86,-120.2 3016.86,-137.8 3016.86,-137.8 3016.86,-143.8 3010.86,-149.8 3004.86,-149.8"/>
+<text xml:space="preserve" text-anchor="middle" x="2970.73" y="-133.2" font-family="Arial" font-size="14.00">Windows 11</text>
+<text xml:space="preserve" text-anchor="middle" x="2970.73" y="-116.4" font-family="Arial" font-size="14.00">2021</text>
+</g>
+<!-- win10&#45;&gt;win11 -->
+<g id="edge22" class="edge">
+<title>win10-&gt;win11</title>
+<path fill="none" stroke="black" d="M2595.78,-129C2673.66,-129 2832.67,-129 2916.03,-129"/>
+<polygon fill="black" stroke="black" points="2915.83,-131.45 2922.83,-129 2915.83,-126.55 2915.83,-131.45"/>
+</g>
+<!-- mac84 -->
+<g id="node28" class="node">
+<title>mac84</title>
+<path fill="none" stroke="black" d="M744.62,-281.8C744.62,-281.8 579.11,-281.8 579.11,-281.8 573.11,-281.8 567.11,-275.8 567.11,-269.8 567.11,-269.8 567.11,-252.2 567.11,-252.2 567.11,-246.2 573.11,-240.2 579.11,-240.2 579.11,-240.2 744.62,-240.2 744.62,-240.2 750.62,-240.2 756.62,-246.2 756.62,-252.2 756.62,-252.2 756.62,-269.8 756.62,-269.8 756.62,-275.8 750.62,-281.8 744.62,-281.8"/>
+<text xml:space="preserve" text-anchor="middle" x="661.86" y="-265.2" font-family="Arial" font-size="14.00">Macintosh System Software</text>
+<text xml:space="preserve" text-anchor="middle" x="661.86" y="-248.4" font-family="Arial" font-size="14.00">1984</text>
+</g>
+<!-- mac84&#45;&gt;win1 -->
+<g id="edge32" class="edge">
+<title>mac84-&gt;win1</title>
+<path fill="none" stroke="black" stroke-dasharray="5,2" d="M744.18,-239.73C761.48,-235.24 779.65,-230.54 796.62,-226.2 840.9,-214.87 891.12,-202.23 928.42,-192.89"/>
+<polygon fill="black" stroke="black" points="928.99,-195.27 935.19,-191.19 927.8,-190.52 928.99,-195.27"/>
+<text xml:space="preserve" text-anchor="middle" x="846.8" y="-230.4" font-family="Arial" font-size="14.00">GUI competition</text>
+</g>
+<!-- mac84&#45;&gt;macx -->
+<g id="edge23" class="edge">
+<title>mac84-&gt;macx</title>
+<path fill="none" stroke="black" stroke-dasharray="5,2" d="M756.99,-266.82C820.99,-270.28 907.6,-274 984.06,-274 984.06,-274 984.06,-274 1756.35,-274 1820.14,-274 1887.91,-306.56 1929.31,-330.65"/>
+<polygon fill="black" stroke="black" points="1927.91,-332.66 1935.18,-334.11 1930.4,-328.44 1927.91,-332.66"/>
+<text xml:space="preserve" text-anchor="middle" x="1395.21" y="-278.2" font-family="Arial" font-size="14.00">Mac lineage</text>
+</g>
+<!-- next&#45;&gt;macx -->
+<g id="edge24" class="edge">
+<title>next-&gt;macx</title>
+<path fill="none" stroke="black" d="M525.23,-457C593.48,-457 730,-457 845.8,-457 845.8,-457 845.8,-457 1756.35,-457 1826.04,-457 1897.23,-412.13 1936.96,-382.21"/>
+<polygon fill="black" stroke="black" points="1938.26,-384.29 1942.33,-378.09 1935.28,-380.4 1938.26,-384.29"/>
+<text xml:space="preserve" text-anchor="middle" x="1263.94" y="-461.2" font-family="Arial" font-size="14.00">NeXT tech</text>
+</g>
+<!-- iphone -->
+<g id="node31" class="node">
+<title>iphone</title>
+<path fill="none" stroke="black" d="M2244.92,-335.8C2244.92,-335.8 2150.2,-335.8 2150.2,-335.8 2144.2,-335.8 2138.2,-329.8 2138.2,-323.8 2138.2,-323.8 2138.2,-306.2 2138.2,-306.2 2138.2,-300.2 2144.2,-294.2 2150.2,-294.2 2150.2,-294.2 2244.92,-294.2 2244.92,-294.2 2250.92,-294.2 2256.92,-300.2 2256.92,-306.2 2256.92,-306.2 2256.92,-323.8 2256.92,-323.8 2256.92,-329.8 2250.92,-335.8 2244.92,-335.8"/>
+<text xml:space="preserve" text-anchor="middle" x="2197.56" y="-319.2" font-family="Arial" font-size="14.00">iPhone OS / iOS</text>
+<text xml:space="preserve" text-anchor="middle" x="2197.56" y="-302.4" font-family="Arial" font-size="14.00">2007</text>
+</g>
+<!-- macx&#45;&gt;iphone -->
+<g id="edge25" class="edge">
+<title>macx-&gt;iphone</title>
+<path fill="none" stroke="black" d="M2010.16,-348.86C2043.06,-342.88 2090.72,-334.22 2129.62,-327.16"/>
+<polygon fill="black" stroke="black" points="2129.84,-329.61 2136.29,-325.95 2128.96,-324.79 2129.84,-329.61"/>
+</g>
+<!-- appleSilicon -->
+<g id="node32" class="node">
+<title>appleSilicon</title>
+<path fill="none" stroke="black" d="M2831.61,-417.8C2831.61,-417.8 2688.64,-417.8 2688.64,-417.8 2682.64,-417.8 2676.64,-411.8 2676.64,-405.8 2676.64,-405.8 2676.64,-388.2 2676.64,-388.2 2676.64,-382.2 2682.64,-376.2 2688.64,-376.2 2688.64,-376.2 2831.61,-376.2 2831.61,-376.2 2837.61,-376.2 2843.61,-382.2 2843.61,-388.2 2843.61,-388.2 2843.61,-405.8 2843.61,-405.8 2843.61,-411.8 2837.61,-417.8 2831.61,-417.8"/>
+<text xml:space="preserve" text-anchor="middle" x="2760.12" y="-401.2" font-family="Arial" font-size="14.00">macOS on Apple Silicon</text>
+<text xml:space="preserve" text-anchor="middle" x="2760.12" y="-384.4" font-family="Arial" font-size="14.00">2020</text>
+</g>
+<!-- macx&#45;&gt;appleSilicon -->
+<g id="edge26" class="edge">
+<title>macx-&gt;appleSilicon</title>
+<path fill="none" stroke="black" d="M2010,-367.53C2054.71,-379.66 2130.24,-397 2196.56,-397 2196.56,-397 2196.56,-397 2550.51,-397 2589.07,-397 2631.63,-397 2668.2,-397"/>
+<polygon fill="black" stroke="black" points="2667.87,-399.45 2674.87,-397 2667.87,-394.55 2667.87,-399.45"/>
+</g>
+<!-- xerox -->
+<g id="node33" class="node">
+<title>xerox</title>
+<ellipse fill="none" stroke="black" cx="306.74" cy="-261" rx="87.78" ry="29.42"/>
+<text xml:space="preserve" text-anchor="middle" x="306.74" y="-265.2" font-family="Arial" font-size="14.00">Xerox PARC GUI</text>
+<text xml:space="preserve" text-anchor="middle" x="306.74" y="-248.4" font-family="Arial" font-size="14.00">1970s</text>
+</g>
+<!-- xerox&#45;&gt;mac84 -->
+<g id="edge31" class="edge">
+<title>xerox-&gt;mac84</title>
+<path fill="none" stroke="black" d="M394.57,-261C444.1,-261 506.46,-261 558.37,-261"/>
+<polygon fill="black" stroke="black" points="558.1,-263.45 565.1,-261 558.1,-258.55 558.1,-263.45"/>
+<text xml:space="preserve" text-anchor="middle" x="480.81" y="-265.2" font-family="Arial" font-size="14.00">GUI inspiration</text>
+</g>
+</g>
+</svg>
