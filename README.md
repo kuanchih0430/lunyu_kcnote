@@ -2,8 +2,22 @@
 
 《論語》是記錄孔子及其弟子言行的一部書，共二十篇，由孔子的弟子及再傳弟子編寫，是我國古代儒家經典著作之一，是首創語錄之體。漢語文章的典範性也發源於此，儒家（在春秋戰國時期與墨家對立）創始人孔子的政治思想核心是“仁”、“禮”和“中庸”。《論語》是記錄孔子主要弟子及其再傳弟子關於孔子言行的一部書。
 
+# 期許
+> 「想要我的財寶嗎？想要的話可以全部給你，去找吧！」
+>
+> ——哥爾・D・羅傑，《ONE PIECE》／尾田榮一郎
 
-# TODO
+> 「おれの財宝か？ 欲しけりゃくれてやるぜ…
+> 探してみろ この世の全てを そこに置いてきた」
+>
+> ——ゴール・D・ロジャー『ONE PIECE』／尾田栄一郎
+
+> “My treasure? Why, it's right where I left it...
+> It's yours if you can find it, but you'll have to search the whole world!”
+>
+> — Gol D. Roger, *ONE PIECE*, Chapter 1 / Eiichiro Oda
+
+## TODO
 
 - [ ] 可能要教文組怎麼使用
 - [ ] 做v2 別人應該看不懂v1
